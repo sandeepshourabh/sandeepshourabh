@@ -35,7 +35,7 @@ Most recently, I've been working hands-on with **AI-assisted documentation workf
 
 ### 🛠️ Core Skills
 
-**Documentation:** API & SDK Docs · User Guides & Knowledge Base · Release Notes · Developer Docs & Code Samples · Process Documentation & SOPs · Training Content
+**Documentation:** API & SDK Documentation (iOS, Android, Web, React Native, Flutter) · User Guides & Knowledge Base Articles · DITA-XML · Release Notes · Process Documentation & SOP · Video Scripts & Tutorials · UI Copy · Training & Certification Content · KCS-aligned Documentation Management
 
 **Tools & Platforms:**
 
@@ -62,7 +62,7 @@ Most recently, I've been working hands-on with **AI-assisted documentation workf
 
 **Technical Familiarity:** JavaScript · Python · Java · Go · Swift · Kotlin · HTML/CSS · JSON *(documentation & code-sample level)*
 
-**Methods:** Agile / Docs-as-Code · Information Architecture · AI-Assisted Documentation · SEO for Knowledge Bases
+**Methods:** Agile / Docs-as-Code, Information Architecture, AI-Assisted Documentation, SEO for Knowledge Bases, AI Assisted Documentation, Instructional Design & Learning Analytics, Cross-Functional Collaboration
 
 ---
 
