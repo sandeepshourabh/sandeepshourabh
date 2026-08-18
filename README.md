@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi, I'm Sandeep Shourabh 👋
+# Hi, I'm Sandeep Shourabh 
 ### Technical Writer | API & Developer Documentation | AI-Assisted Documentation
 
 I turn complex products into documentation people actually use — across SaaS, HRMS, ERP, and AI-powered platforms.
