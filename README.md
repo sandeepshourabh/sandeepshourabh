@@ -7,7 +7,7 @@ I turn complex products into documentation people actually use — across SaaS, 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sandeep-shourabh-78921549/)
 [![Email](https://img.shields.io/badge/Email-Contact-D14836?style=flat&logo=gmail&logoColor=white)](mailto:s.shourabh@gmail.com)
-[![Resume](https://img.shields.io/badge/Resume-Download-2ea44f?style=flat&logo=googledocs&logoColor=white)](https://github.com/YOUR-USERNAME/portfolio/blob/main/Sandeep_Shourabh_Resume.pdf)
+[![Resume](https://img.shields.io/badge/Resume-Download-2ea44f?style=flat&logo=googledocs&logoColor=white)](https://github.com/sandeepshourabh/portfolio/blob/main/Sandeep_Shourabh_Resume.pdf)
 
 </div>
 
