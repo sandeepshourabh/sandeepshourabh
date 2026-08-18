@@ -7,6 +7,7 @@ I turn complex products into documentation people actually use — across SaaS, 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sandeep-shourabh-78921549/)
 [![Email](https://img.shields.io/badge/Email-Contact-D14836?style=flat&logo=gmail&logoColor=white)](mailto:s.shourabh@gmail.com)
+[![Resume](https://img.shields.io/badge/Resume-Download-2ea44f?style=flat&logo=googledocs&logoColor=white)](https://github.com/sandeepshourabh/portfolio/blob/main/Sandeep_Shourabh_Resume.pdf)
 
 </div>
 
@@ -58,7 +59,7 @@ Most recently, I've been working hands-on with **AI-assisted documentation workf
 - **Technical Writer @ Khoros** — Authored 80+ KB articles and guides for an enterprise Care & Community platform.
 - **Content Specialist @ Keka HR** — Owned content lifecycle for a product module; produced video training content.
 
-*Full experience history on my [LinkedIn](https://www.linkedin.com/in/sandeep-shourabh-78921549/).*
+*Full experience history in my [resume](https://github.com/sandeepshourabh/portfolio/blob/main/Sandeep_Shourabh_Resume.pdf).*
 
 ---
 
