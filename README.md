@@ -14,7 +14,7 @@ I turn complex products into documentation people actually use — across SaaS, 
 
 ### 🧭 About Me
 
-7+ years of technical writing experience, including 5+ years in product documentation and knowledge enablement, and 2+ years in API and SDK developer documentation. I've authored 350+ technical articles, guides, and developer resources across Web, iOS, Android, React Native, and Flutter — and led a full documentation platform migration, rebuilding information architecture and content standards from scratch.
+7+ years of technical writing experience, including 6+ years in product documentation and knowledge enablement, and 3+ years in API and SDK developer documentation. I've authored 350+ technical articles, guides, and developer resources across Web, iOS, Android, React Native, and Flutter — and led a full documentation platform migration, rebuilding information architecture and content standards from scratch.
 
 Most recently, I've been working hands-on with **AI-assisted documentation workflows** — designing prompts and validating AI-generated content as part of an internal documentation assistant, and thinking a lot about what it takes to make content genuinely retrievable and trustworthy for both humans and AI systems.
 
